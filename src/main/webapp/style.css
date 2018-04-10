@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Old+Standard+TT');
+@import url('https://fonts.googleapis.com/css?family=Philosopher');
+h1{
+font-family: 'Old Standard TT', serif;
+text-align: center;
+font-size: 50px;
+}
+.fonts{
+	font-family: 'Philosopher', sans-serif;
+	font-size: 14pt;
+	text-align: justify;
+	
+}
