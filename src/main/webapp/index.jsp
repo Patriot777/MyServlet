@@ -12,6 +12,10 @@
 <body>
 	<div class="container">
 		<div class="col-sm-12 col-md-8 col-md-push-2 fonts">
+			<a href="blog.jsp">Мій блоG</a>
+		</div>
+		<div class="col-sm-12 col-md-8 col-md-push-2 fonts">
+		
 			<h1>Як я створював цей сайт</h1>
 			<h3>Від мене</h3>
 			Щоб створити цей сайт я використав технологію Java. Для розробки
