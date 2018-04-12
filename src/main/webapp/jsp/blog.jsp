@@ -5,14 +5,15 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Мій блог</title>
-<link rel="stylesheet" type="text/css" href="bootstrap.min.css">
-<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="../css/style.css">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
 	<div class="container">
 		<div class="col-sm-12 col-md-8 col-md-push-2 fonts">
-			<a href="index.jsp">На головну</a>
+			<a href="../index.jsp">На головну</a><br>
+			<a href="ubuntu-setting.jsp">Мої налаштування Ubuntu 16.04</a>
 		</div>
 		<div class="col-sm-12 col-md-8 col-md-push-2 fonts">
 			<h1>Дозалив на сайт</h1>

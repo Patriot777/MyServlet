@@ -6,13 +6,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Мій сайт на JSP</title>
-<link rel="stylesheet" type="text/css" href="bootstrap.min.css">
-<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
 	<div class="container">
 		<div class="col-sm-12 col-md-8 col-md-push-2 fonts">
-			<a href="blog.jsp">Мій блоG</a>
+			<a href="jsp/blog.jsp">Мій блоG</a>
 		</div>
 		<div class="col-sm-12 col-md-8 col-md-push-2 fonts">
 		
