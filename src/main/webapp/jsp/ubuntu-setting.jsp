@@ -3,6 +3,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
+<%@ include file="include/favicon.jsp" %>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Мої налаштування Ubuntu 16.04</title>
 <link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css">
@@ -11,10 +12,7 @@
 </head>
 <body>
 	<div class="container">
-		<div class="col-sm-12 col-md-8 col-md-push-2 fonts">
-			<a href="../index.jsp">На головну</a><br> <a href="blog.jsp">Мій
-				блоG</a>
-		</div>
+		<%@ include file="include/blog-header.jsp"%>
 		<div class="col-sm-12 col-md-8 col-md-push-2 fonts">
 			<h1>Мої налаштування Ubuntu 16.04</h1>
 			Першим ділом що я роблю після встрановлення убунту (на жаль це

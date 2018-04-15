@@ -3,6 +3,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
+<%@ include file="jsp/include/favicon.jsp" %>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Мій сайт на JSP</title>
@@ -11,9 +12,7 @@
 </head>
 <body>
 	<div class="container">
-		<div class="col-sm-12 col-md-8 col-md-push-2 fonts">
-			<a href="jsp/blog.jsp">Мій блоG</a>
-		</div>
+		<%@ include file="jsp/include/blog-header.jsp"%>
 		<div class="col-sm-12 col-md-8 col-md-push-2 fonts">
 		
 			<h1>Як я створював цей сайт</h1>
