@@ -12,7 +12,9 @@
 </head>
 <body>
 	<div class="container">
-		<%@ include file="jsp/include/blog-header.jsp"%>
+		<div class="col-sm-12 col-md-8 col-md-push-2 fonts fon">
+			<a href="jsp/blog.jsp"><b>Мій блоG</b></a>
+			</div>
 		<div class="col-sm-12 col-md-8 col-md-push-2 fonts">
 		
 			<h1>Як я створював цей сайт</h1>
