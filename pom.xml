@@ -24,6 +24,6 @@
     
   </dependencies>
   <build>
-    <finalName>h</finalName>
+    <finalName>ROOT</finalName>
   </build>
 </project>
