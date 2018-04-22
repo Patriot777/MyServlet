@@ -5,13 +5,13 @@
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
   <servlet>
-  	<servlet-name>first</servlet-name>
-  	<display-name>first</display-name>
+  	<servlet-name>Vova</servlet-name>
+  	<display-name>Vova</display-name>
   	<description></description>
-  	<servlet-class>java.first</servlet-class>
+  	<servlet-class>Vova</servlet-class>
   </servlet>
   <servlet-mapping>
-  	<servlet-name>first</servlet-name>
-  	<url-pattern>/first</url-pattern>
+  	<servlet-name>Vova</servlet-name>
+  	<url-pattern>/Vova</url-pattern>
   </servlet-mapping>
 </web-app>
